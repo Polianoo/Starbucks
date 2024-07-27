@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-starbucks {
+    height: 100px;
+    margin-top: 40px;
+    margin-left: -15px;
+}
+
+body {
+    background-color: green;
+    display: flex;
+    position: absolute;
+}
+
+
+h2 {
+    font-family: "Poppins", sans-serif;
+    color: #333;
+    font-weight: 700;
+    font-size: 38px;
+    margin-top: 40px;
+}
+
+span {
+
+    color: #ffff;
+    font-size: 60px;
+    font-weight: bold;
+    line-height: 74px;
+
+}
+
+button {
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    border: none;
+    border-radius: 35px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+
+.img-01 {
+    display: flex;
+    height: 500px;
+    position: fixed;
+    margin-left: 530px;
+    margin-top: 150px;
+
+}
+
+.caixa-03 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 500px;
+    height: 250px;
+    gap: 50px;
+
+}
